@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  BookStore
+
+  Created by Kaio Dantas on 09/10/20.
+  
+*/
+
+
+impossible_load="It was not possible to load the book list. Please, try it again.";
+no_books="No books found. You can try it again";
+ok="OK";
+books_found="book(s) found";
